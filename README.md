@@ -12,7 +12,7 @@
 - 🤩 My primary interests lie in business, marketing strategy, NLP, AI, and exploring innovative and mind-blowing ideas.  
   
 
-- ⚡ Quirky detail: I xNTx who enjoy reading about MBTI purely for amusement.    
+- ⚡ Quirky detail: I an xNTx who enjoy reading about MBTI purely for amusement.    
   
 
 <br/>  
