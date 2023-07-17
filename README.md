@@ -63,16 +63,19 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" align="left" height="60" width="" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" align="left" height="50" width="" />  
   
 
-<img src="https://canvatemplates.com/wp-content/uploads/2023/06/Canva-Logo-Transparent-1024x576.png" align="left" height="60" width="" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" align="left" height="50" width="" />  
   
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/2560px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" align="left" height="50" width="" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/2560px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" align="left" height="40" width="" />  
   
 
-<img src="https://i.pinimg.com/736x/14/82/20/148220e8817f2c1b4d75cb1658873c75.jpg" align="left" height="60" width="" />  
+<img src="https://canvatemplates.com/wp-content/uploads/2023/06/Canva-Logo-Transparent-1024x576.png" align="left" height="50" width="" />  
+  
+
+<img src="https://i.pinimg.com/736x/14/82/20/148220e8817f2c1b4d75cb1658873c75.jpg" align="left" height="50" width="" />  
 
 
 </td></tr></table>  
