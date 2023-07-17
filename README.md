@@ -9,10 +9,10 @@
 - 🌱 I am currently enhancing my expertise in business analysis, statistics, and Python for data analysis.  
   
 
-- 🤩 My primary interests lie in business, marketing strategy, and exploring innovative and mind-blowing ideas.  
+- 🤩 My primary interests lie in business, marketing strategy, NLP, AI, and exploring innovative and mind-blowing ideas.  
   
 
-- ⚡ Quirky detail : I enjoy reading about MBTI purely for amusement.    
+- ⚡ Quirky detail: I enjoy reading about MBTI purely for amusement.    
   
 
 <br/>  
