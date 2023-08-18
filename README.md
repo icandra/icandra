@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ica, a Junior Data Analyst👨‍💻</div>  
   
 
-- 🌱 I am currently enhancing my expertise in business analysis, statistics, and Python for data analysis.  
+- 🌱 I am currently enhancing my expertise data analytics, statistics, and Python for analysis.  
   
 - 🌱 Open to relocation globally
   
